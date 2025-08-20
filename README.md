@@ -1,1 +1,1 @@
-# event_manager_30050
+The primary objective of this project is to design and implement a centralized, efficient relational database system that consolidates existing fragmented data across a national coffee shop chain. This database will streamline operations, enable scalable decision-making, and provide a single source of truth for business intelligence.
